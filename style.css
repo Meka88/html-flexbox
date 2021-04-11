@@ -1,0 +1,25 @@
+th, td{
+    padding: 10px;
+     
+  }
+  th, td{
+      text-align: center;
+      font: 15px solid;
+      color: #fff;
+  }
+  table, th, td {
+      border: 1px solid white;
+      border-collapse: collapse;
+  }
+  table{
+     background: #064f04;
+  }
+  Caption, footer{
+    font-family: tahoma;
+    font-size: 25px;
+    text-align: center;
+    color: #ebdf02;
+  }
+  footer {
+      text-align: center;
+  }
